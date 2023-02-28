@@ -1,1 +1,0 @@
-## Olá AWS Cloud Week
